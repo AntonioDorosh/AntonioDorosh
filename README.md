@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="antondoroshenko92@gmail.com" target="_blank">
