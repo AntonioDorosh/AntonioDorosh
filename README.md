@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">Skills</h2>
+<h2 align="center">### :hammer_and_wrench: Languages and Tools :</h2>
 
 ###
 
