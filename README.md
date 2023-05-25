@@ -7,7 +7,6 @@
 
 <p align="left">My name is Anton and I'am Front-End developer</p>
 
-###
 
 <p align="left"></p>
 
