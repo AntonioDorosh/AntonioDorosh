@@ -13,7 +13,7 @@
 
 <h2 align="center">### :hammer_and_wrench: Languages and Tools :</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
