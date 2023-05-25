@@ -11,7 +11,7 @@
 <p align="left"></p>
 
 
-<h2 align="center">### :hammer_and_wrench: Languages and Tools :</h2>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
 
 
 
