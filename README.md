@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'am Front-End developer</p>
+<p align="left">Front-end Developer</p>
 
 
 <p align="left"></p>
